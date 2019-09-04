@@ -60,4 +60,4 @@ ApiTapiID.log = { text in } // to define your own log handler
 
 ==================================================
 
-You can see the example of usage in the attached project.
+You can see the example of usage in the [attached project](./tree/master/ApiTapiIDExample).
